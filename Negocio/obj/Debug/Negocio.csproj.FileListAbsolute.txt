@@ -1,0 +1,688 @@
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\source\repos\AppPeticionesService\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\InterfazCavali.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\InterfazCavali.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\LogWs.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\bin\Debug\LogWs.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\InterfazCavali.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\InterfazCavali.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\LogWs.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\bin\Debug\LogWs.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk41\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk43\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Negocio\obj\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Negocio.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Datos.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Datos.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\obj\Debug\Negocio.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Negocio\obj\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Datos.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Datos.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Datos.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\InterfazCavali.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\bin\Debug\InterfazCavali.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\obj\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Negocio\obj\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Datos.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Datos.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Datos.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\InterfazCavali.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\bin\Debug\InterfazCavali.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\obj\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Negocio\obj\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Negocio.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Datos.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Datos.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Datos.dll.config
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\obj\Debug\Negocio.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Negocio\obj\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Datos.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Datos.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Datos.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\obj\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Negocio\obj\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Negocio.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Datos.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Datos.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Datos.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\obj\Debug\Negocio.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateService\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV4\Negocio\bin\Debug\Negocio.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Negocio.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Negocio.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV6\Negocio\obj\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Negocio.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Negocio.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Datos.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Datos.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Datos.dll.config
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\obj\Debug\Negocio.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Negocio\obj\Debug\Negocio.pdb

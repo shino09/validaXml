@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><?xml-stylesheet type="text/xsl" href="factura2.1.xsl"?><Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:oasis:names:specification:ubl:schema:xsd:CoreComponentParameters-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDatatypes-2" xmlns:sac="urn:sunat:names:specification:ubl:peru:schema:xsd:SunatAggregateComponents-1" xmlns:stat="urn:oasis:names:specification:ubl:schema:xsd:DocumentStatusCode-1.0" xmlns:udt="urn:un:unece:uncefact:data:draft:UnqualifiedDataTypesSchemaModule:2">
+	<ext:UBLExtensions>	
+		<ext:UBLExtension>	
+			<ext:ExtensionContent>
+				<sac:AdditionalInformation>
+										
+									</sac:AdditionalInformation>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	<ext:UBLExtension><ext:ExtensionContent><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><DigestValue>2W1d7901Arx/0ejqXnQPr9A1Cq31YhDSr6HnId/sVw0=</DigestValue></Reference></SignedInfo><SignatureValue>Zra0H3lIto9zJDhCnIUzaaAG9gXnLJ1jAocVKfq7UOp0/V/HKR4AY3HcR6Wdr0dH1jLO9BsQxB51JHL0lFueBnzPDRHTsAwy/Eyi5XPQcNN9d86qTNYwz25NvRFhpNaI+qoNjg5LfkwGJqj7jYn7uToUw0jh+AwnnhZsCHpTMkzsQjLY+cYzhEyHrDUQEBs4UYG+8b5d4bXNcQvS3hNNHTxCiwz0NxclSti8AYXEE0GnyDA2gGrRJmKRg1Si+UFQrf5sEGi+0x3Q1ZvZbsQ9pKYe1Bmp/mwSbXoMFcmtkumRZ4Gg9K9oljiFFR+Pjumdm+qkJALzGnvKIuGb3Ftk6w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=AC CAMERFIRMA PERÚ CERTIFICADOS - 2016, O=CAMERFIRMA PERÚ S.A.C., OID.2.5.4.97=NTRPE-20566302447, SERIALNUMBER=20566302447, OU=AC CAMERFIRMA PERÚ CERTIFICADOS - 2016, OU=see current address at www.camerfirma.com.pe/address, L=LIMA, S=LIMA, C=PE</X509SubjectName><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions>
+	
+	<cbc:UBLVersionID>2.1</cbc:UBLVersionID>
+	<cbc:CustomizationID>2.0</cbc:CustomizationID>
+	
+	<cbc:ID>I101-0095</cbc:ID>
+	<cbc:IssueDate>2019-10-23</cbc:IssueDate>
+	<cbc:IssueTime>20:51:36.0Z</cbc:IssueTime>
+	<cbc:DueDate>2019-11-23</cbc:DueDate>
+
+	<cbc:InvoiceTypeCode listAgencyName="PE:SUNAT" listID="0101" listName="Tipo de Documento" listSchemeURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo51" listURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo01" name="Tipo de Operacion">01</cbc:InvoiceTypeCode>
+		<cbc:Note languageLocaleID="1000"><![CDATA[SON:  SEIS MIL CUATROCIENTOS SETENTA Y SEIS Y 31/100  SOLES]]></cbc:Note>
+														<cbc:DocumentCurrencyCode listAgencyName="United Nations Economic Commission for Europe" listID="ISO 4217 Alpha" listName="Currency">PEN</cbc:DocumentCurrencyCode>
+					
+							<cac:Signature>
+		<cbc:ID>I101-0095</cbc:ID>
+		<cac:SignatoryParty>
+            <cac:PartyIdentification>
+                <cbc:ID>20270653929</cbc:ID>
+            </cac:PartyIdentification>
+			<cac:PartyName>
+				<cbc:Name>SUN&AT</cbc:Name>
+			</cac:PartyName>
+		</cac:SignatoryParty>
+		<cac:DigitalSignatureAttachment>
+			<cac:ExternalReference>
+				<cbc:URI>SignS>UNAT</cbc:URI>
+			</cac:ExternalReference>
+		</cac:DigitalSignatureAttachment>
+	</cac:Signature>
+	<cac:AccountingSupplierParty>
+        <cbc:CustomerAssignedAccountID>20477276262</cbc:CustomerAssignedAccountID>
+        <cbc:AdditionalAccountID>0</cbc:AdditionalAccountID>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<cbc:ID schemeAgencyName="PE:SUNAT" schemeID="6" schemeName="Documento de Identidad" schemeURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo06">20477276262</cbc:ID>
+			</cac:PartyIdentification>
+			<cac:PartyName>
+				<cbc:Name><![CDATA[CARPECO SAC]]></cbc:Name>
+			</cac:PartyName>
+			<cac:PartyLegalEntity>
+				<cbc:RegistrationName><![CDATA[CARPECO CONTRATISTAS GENERALES S.A.C]]></cbc:RegistrationName>
+				<cac:RegistrationAddress>
+					<cbc:AddressTypeCode listAgencyName="PE:SUNAT" listName="Establecimientos anexos">0</cbc:AddressTypeCode>
+										<cbc:BuildingNumber />
+										<cbc:CitySubdivisionName>-</cbc:CitySubdivisionName>
+					<cbc:CityName><![CDATA[TRUJILLO]]></cbc:CityName>
+					<cbc:CountrySubentity><![CDATA[LA LIBERTAD]]></cbc:CountrySubentity>
+					<cbc:CountrySubentityCode><![CDATA[130101]]></cbc:CountrySubentityCode>
+					<cbc:District><![CDATA[TRUJILLO]]></cbc:District>		
+					<cac:AddressLine>
+						<cbc:Line><![CDATA[OTR. LAS FLORES DEL GOLF KM. 0 MZA. C INT. 204 DPTO. 0 LOTE. 43 URB. LAS FLORES DEL GOLF 2DA]]></cbc:Line>
+					</cac:AddressLine>
+					<cac:Country>
+					  <cbc:IdentificationCode>PE</cbc:IdentificationCode>
+					</cac:Country>
+				</cac:RegistrationAddress>
+			</cac:PartyLegalEntity>
+		</cac:Party>
+	</cac:AccountingSupplierParty>
+	<cac:AccountingCustomerParty>
+        <cbc:CustomerAssignedAccountID>10164121611</cbc:CustomerAssignedAccountID>
+        <cbc:AdditionalAccountID>6</cbc:AdditionalAccountID>
+		<cac:Party>
+			<cac:PartyIdentification>
+			<cbc:ID schemeAgencyName="PE:SUNAT" schemeID="6" schemeName="Documento de Identidad" schemeURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo06">20501827623</cbc:ID>
+			</cac:PartyIdentification>
+			<cac:PartyLegalEntity>
+				<cbc:RegistrationName><![CDATA[GESTION DE SERVICIOS COMPARTIDOS S.A.C.]]></cbc:RegistrationName>
+								<cac:RegistrationAddress>
+					<cbc:AddressTypeCode listAgencyName="PE:SUNAT" listName="Establecimientos anexos">0</cbc:AddressTypeCode>
+					<cbc:BuildingNumber />	 
+									    <cbc:CitySubdivisionName />
+				    					<cbc:CityName>LIMA</cbc:CityName>
+				    <cbc:CountrySubentity>LIMA</cbc:CountrySubentity>
+					<cbc:CountrySubentityCode><![CDATA[150131]]></cbc:CountrySubentityCode>
+					 <cbc:District>SAN ISIDRO </cbc:District>
+					<cac:AddressLine>
+						<cbc:Line><![CDATA[ CAL. DEAN VALDIVIA 148, URB. JARDIN DPTO. 201  LIMA-LIMA-SAN ISIDRO]]></cbc:Line>
+					</cac:AddressLine>
+					<cac:Country>
+					  <cbc:IdentificationCode>P£E</cbc:IdentificationCode>
+					</cac:Country>
+				</cac:RegistrationAddress>
+							</cac:PartyLegalEntity>
+		</cac:Party>
+	</cac:AccountingCustomerParty>
+  		    	<cac:TaxTotal>
+	  <cbc:TaxAmount currencyID="PEN">987.91</cbc:TaxAmount>
+				<!-- INI: PAS20191U210100075 jsantivanez -->						
+				<!-- FIN: PAS20191U210100075 -->
+				
+			   <cac:TaxSubtotal>
+        <cbc:TaxableAmount currencyID="PEN">5488.40</cbc:TaxableAmount>
+        <cbc:TaxAmount currencyID="PEN">987.91</cbc:TaxAmount>
+        <cac:TaxCategory>
+          <cbc:ID schemeAgencyName="United Nations Economic Commission for Europe" schemeID="UN/ECE 5305" schemeName="Tax Category Identifier">S</cbc:ID>
+          <cac:TaxScheme>
+            <cbc:ID schemeAgencyName="PE:SUNAT" schemeID="UN/ECE 5153" schemeName="Codigo de tributos">1000</cbc:ID>
+            <cbc:Name>IGV</cbc:Name>
+            <cbc:TaxTypeCode>VAT</cbc:TaxTypeCode>
+          </cac:TaxScheme>
+        </cac:TaxCategory>
+	   </cac:TaxSubtotal>
+											</cac:TaxTotal>
+	<cac:LegalMonetaryTotal>
+		
+		<cbc:PayableAmount currencyID="PEN">6476.31</cbc:PayableAmount>	
+	</cac:LegalMonetaryTotal>
+
+		<cac:InvoiceLine>
+		<cbc:ID>1</cbc:ID>
+		<cbc:InvoicedQuantity unitCode="NIU" unitCodeListAgencyName="United Nations Economic Commission for Europe" unitCodeListID="UN/ECE rec 20">1.00</cbc:InvoicedQuantity>
+		<cbc:LineExtensionAmount currencyID="PEN">5488.40</cbc:LineExtensionAmount>
+		
+				<cbc:FreeOfChargeIndicator>false</cbc:FreeOfChargeIndicator>
+				
+								<cac:PricingReference>
+			<cac:AlternativeConditionPrice>
+				<cbc:PriceAmount currencyID="PEN">6476.31</cbc:PriceAmount>
+				<cbc:PriceTypeCode listAgencyName="PE:SUNAT" listName="Tipo de Precio" listURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo16">01</cbc:PriceTypeCode>
+			</cac:AlternativeConditionPrice>
+		</cac:PricingReference>
+		
+		<cac:AllowanceCharge>
+  		  			<cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+  					<cbc:Amount currencyID="PEN">0.00</cbc:Amount>
+		</cac:AllowanceCharge>
+		
+		<!-- TAX Impuestos Item -->
+		<cac:TaxTotal>
+		  <cbc:TaxAmount currencyID="PEN">987.91</cbc:TaxAmount>
+		  <!-- cac:TaxSubtotal -->
+		  	<cac:TaxSubtotal>
+				<cbc:TaxableAmount currencyID="PEN">5488.40</cbc:TaxableAmount>
+				<cbc:TaxAmount currencyID="PEN">0.00</cbc:TaxAmount>
+				<cac:TaxCategory>
+				  <cbc:ID schemeAgencyName="United Nations Economic Commission for Europe" schemeID="UN/ECE 5305" schemeName="Tax Category Identifier">S</cbc:ID>
+				  <cbc:Percent>0.00</cbc:Percent>
+				  <cbc:TierRange>0</cbc:TierRange>					  
+				  <cac:TaxScheme>
+					<cbc:ID schemeAgencyName="PE:SUNAT" schemeID="UN/ECE 5153" schemeName="Codigo de tributos">2000</cbc:ID>
+					<cbc:Name>ISC</cbc:Name>
+					<cbc:TaxTypeCode>EXC</cbc:TaxTypeCode>	
+				  </cac:TaxScheme>
+				</cac:TaxCategory>
+			</cac:TaxSubtotal>
+			<!-- INI: PAS20191U210100075 jsantivanez-->	
+						<!-- FIN: PAS20191U210100075 -->	
+				<!--Excluyentes :: Otro Tributo - Gratuita(Bonificacion) - Exportacion - Onerosa(Bonitificacion) {Gravada, Inafecta, Exonerada} -->
+							<cac:TaxSubtotal>
+				<cbc:TaxableAmount currencyID="PEN">5488.40</cbc:TaxableAmount>				
+				<cbc:TaxAmount currencyID="PEN">987.91</cbc:TaxAmount>
+				<cac:TaxCategory>
+				  <cbc:ID schemeAgencyName="United Nations Economic Commission for Europe" schemeID="UN/ECE 5305" schemeName="Tax Category Identifier">S</cbc:ID>
+				  <cbc:Percent>18.00</cbc:Percent>
+				  <cbc:TaxExemptionReasonCode listAgencyName="PE:SUNAT" listName="Afectacion del IGV" listURI="urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo07">10</cbc:TaxExemptionReasonCode>
+				  <cac:TaxScheme>
+					<cbc:ID schemeAgencyName="PE:SUNAT" schemeID="UN/ECE 5153" schemeName="Codigo de tributos">1000</cbc:ID>
+					<cbc:Name>IGV</cbc:Name>
+					<cbc:TaxTypeCode>VAT</cbc:TaxTypeCode>
+				   </cac:TaxScheme>
+				</cac:TaxCategory>
+			</cac:TaxSubtotal>
+							<!-- /cac:TaxSubtotal -->
+		</cac:TaxTotal>			
+		<cac:Item>
+			<cbc:Description><![CDATA[POR EL SERVICIO DE LEVANTAMIENTO DE INSPECCION DE PRE-IPSE AGENCIA BCP SAN PEDRITO, CHIMBOTE, SEGUN ORDEN DE COMPRA NRO 4700008274, Y
+CERTIFICACION NRO 5000015922]]></cbc:Description>
+			<cac:SellersItemIdentification>
+				<cbc:ID />
+			</cac:SellersItemIdentification>
+		</cac:Item>
+		
+		<cac:Price>
+			<cbc:PriceAmount currencyID="PEN">5488.40</cbc:PriceAmount>
+		</cac:Price>
+    
+	</cac:InvoiceLine>
+	</Invoice>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s4="http://cavali.com.pe/ib/esb" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://cavali.com.pe/ib/esb/" xmlns:s2="http://cavali.com.pe/ib/esb/srv04002" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s3="http://cavali.com.pe/ib/esb/srv04001" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:import namespace="http://cavali.com.pe/ib/esb/" />
+      <s:import namespace="http://cavali.com.pe/ib/esb/srv04002" />
+      <s:import namespace="http://cavali.com.pe/ib/esb/srv04001" />
+      <s:element name="Envio_Resumen_Carga">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cabecera" type="s1:CABECERA_Type" />
+            <s:element minOccurs="0" maxOccurs="1" name="datosWC" type="s2:DATOS_Type" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Envio_Resumen_CargaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Envio_Resumen_CargaResult" type="s3:MENSAJERES_Type" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Error_Validacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cabecera" type="s1:CABECERA_Type" />
+            <s:element minOccurs="0" maxOccurs="1" name="datosWC" type="s2:DATOS_Type" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Error_ValidacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Error_ValidacionResult" type="s3:MENSAJERES_Type" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb/">
+      <s:complexType name="CABECERA_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="APP_CONSUMIDORA" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb/srv04002">
+      <s:complexType name="DATOS_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="idPadre" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb/srv04001">
+      <s:import namespace="http://cavali.com.pe/ib/esb" />
+      <s:complexType name="MENSAJERES_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="INTEGRES" type="s3:INTEGRACIONRES_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="INTEGRACIONRES_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="CABECERA" type="s4:CABECERARes_Type" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DETALLE" type="s3:DETALLERes_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DETALLERes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DATOS" type="s3:DATOSRes_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DATOSRes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="resultCode" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb">
+      <s:complexType name="CABECERARes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="APP_CONSUMIDORA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="COD_RESPUESTA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DES_RESPUESTA" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Envio_Resumen_CargaSoapIn">
+    <wsdl:part name="parameters" element="tns:Envio_Resumen_Carga" />
+  </wsdl:message>
+  <wsdl:message name="Envio_Resumen_CargaSoapOut">
+    <wsdl:part name="parameters" element="tns:Envio_Resumen_CargaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Error_ValidacionSoapIn">
+    <wsdl:part name="parameters" element="tns:Error_Validacion" />
+  </wsdl:message>
+  <wsdl:message name="Error_ValidacionSoapOut">
+    <wsdl:part name="parameters" element="tns:Error_ValidacionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_Notificaciones_Web_ClienteSoap">
+    <wsdl:operation name="Envio_Resumen_Carga">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Envio_Resumen_Carga</wsdl:documentation>
+      <wsdl:input message="tns:Envio_Resumen_CargaSoapIn" />
+      <wsdl:output message="tns:Envio_Resumen_CargaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Error_Validacion">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Error_Validacion</wsdl:documentation>
+      <wsdl:input message="tns:Error_ValidacionSoapIn" />
+      <wsdl:output message="tns:Error_ValidacionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_Notificaciones_Web_ClienteSoap" type="tns:WS_Notificaciones_Web_ClienteSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Envio_Resumen_Carga">
+      <soap:operation soapAction="http://tempuri.org/Envio_Resumen_Carga" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Error_Validacion">
+      <soap:operation soapAction="http://tempuri.org/Error_Validacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_Notificaciones_Web_ClienteSoap12" type="tns:WS_Notificaciones_Web_ClienteSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Envio_Resumen_Carga">
+      <soap12:operation soapAction="http://tempuri.org/Envio_Resumen_Carga" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Error_Validacion">
+      <soap12:operation soapAction="http://tempuri.org/Error_Validacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_Notificaciones_Web_Cliente">
+    <wsdl:port name="WS_Notificaciones_Web_ClienteSoap" binding="tns:WS_Notificaciones_Web_ClienteSoap">
+      <soap:address location="http://localhost:51603/WS_Notificaciones_Web_Cliente.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_Notificaciones_Web_ClienteSoap12" binding="tns:WS_Notificaciones_Web_ClienteSoap12">
+      <soap12:address location="http://localhost:51603/WS_Notificaciones_Web_Cliente.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

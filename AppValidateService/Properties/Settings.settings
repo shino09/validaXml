@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppValidateService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="unica" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=NANOWIN-PC\SQLEXPRESS;Initial Catalog=DIMCEF;   User ID=sa;Password=123456;MultipleActiveResultSets=true; Connection Timeout=0; connection lifetime=0; min pool size=120; max pool size=5000; pooling=false&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=NANOWIN-PC\SQLEXPRESS;Initial Catalog=DIMCEF;   User ID=sa;Password=123456;MultipleActiveResultSets=true; Connection Timeout=0; connection lifetime=0; min pool size=120; max pool size=5000; pooling=false</Value>
+    </Setting>
+    <Setting Name="DB_LogConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=NANOWIN-PC\SQLEXPRESS;Initial Catalog=bd_dummy; User ID=sa;Password=123456;MultipleActiveResultSets=true; Connection Timeout=0; connection lifetime=0; min pool size=120; max pool size=5000; pooling=false&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=NANOWIN-PC\SQLEXPRESS;Initial Catalog=bd_dummy; User ID=sa;Password=123456;MultipleActiveResultSets=true; Connection Timeout=0; connection lifetime=0; min pool size=120; max pool size=5000; pooling=false</Value>
+    </Setting>
+    <Setting Name="Demo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NO</Value>
+    </Setting>
+    <Setting Name="participantCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">801</Value>
+    </Setting>
+    <Setting Name="Timer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">30000</Value>
+    </Setting>
+    <Setting Name="Directorio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Logs</Value>
+    </Setting>
+    <Setting Name="rutaXml" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FACTURAS</Value>
+    </Setting>
+    <Setting Name="rutaLogs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Logs_DLL</Value>
+    </Setting>
+    <Setting Name="GeneraLogs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NO</Value>
+    </Setting>
+    <Setting Name="rutaLogs_dll_datos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Logs_DLL</Value>
+    </Setting>
+    <Setting Name="GeneraLogs_dll_datos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NO</Value>
+    </Setting>
+    <Setting Name="AppValidateService_WS_Notificaciones_Web_Cliente_WS_Notificaciones_Web_Cliente" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:51603/WS_Notificaciones_Web_Cliente.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

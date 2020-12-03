@@ -1,0 +1,496 @@
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\source\repos\AppPeticionesService\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRUNCHACTUALUZACIONDLL\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH12\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH15\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch18\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\InterfazCavali.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\InterfazCavali.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\LogWs.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH20\Entidad\bin\Debug\LogWs.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\InterfazCavali.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\InterfazCavali.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\LogWs.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\bin\Debug\LogWs.dll.config
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\TRUNK19\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch24\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk23_18_20_2019\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch27\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk26\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch30\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch32\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk31_v2\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch36\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch39\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\trunk38\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch42\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\BRANCH45\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch48\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch51\Entidad\obj\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\bin\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\bin\Debug\Entidad.pdb
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\bin\Debug\InterfazCavali.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\bin\Debug\LogWs.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\bin\Debug\RutinasGenerales.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\obj\Debug\Entidad.dll
+C:\Users\storres\Desktop\FuentesService\AppPeticionesService\branch55\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 58\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 63\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 69\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk -65\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 75_1\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 78\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk_Mejora\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 84\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 90\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 91\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 92\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 96\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 97\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 98\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 99\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 102\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 111\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 112\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\LogWs.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\RutinasGenerales.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\obj\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\obj\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\InterfazCavali.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH 116\Entidad\bin\Debug\InterfazCavali.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\LogWs.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\RutinasGenerales.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\obj\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\obj\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\InterfazCavali.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\bin\Debug\InterfazCavali.dll.config
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 119\Entidad\obj\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Trunk\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\bin\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\bin\Debug\Entidad.pdb
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\bin\Debug\InterfazCavali.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\bin\Debug\LogWs.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\bin\Debug\RutinasGenerales.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\obj\Debug\Entidad.dll
+F:\0.-Proyecto Cesion Electronica FT Capital\Fuentes\Servicio AppPeticiones\Breanch\SVN 126\Entidad\obj\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\bin\Debug\LogWs.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\bin\Debug\RutinasGenerales.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\obj\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\BRANCH\Entidad\obj\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\bin\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\bin\Debug\Entidad.pdb
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\bin\Debug\InterfazCavali.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\bin\Debug\LogWs.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\bin\Debug\RutinasGenerales.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\obj\Debug\Entidad.dll
+E:\SVN\4.CAVALI\3.APP PETICIONES\TRUNK 128\Entidad\obj\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\bin\Debug\InterfazCavali.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\bin\Debug\LogWs.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\bin\Debug\RutinasGenerales.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\obj\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\apppeticiones\Entidad\obj\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\bin\Debug\InterfazCavali.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\bin\Debug\LogWs.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\bin\Debug\RutinasGenerales.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\obj\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV2\Entidad\obj\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\bin\Debug\InterfazCavali.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\bin\Debug\LogWs.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\bin\Debug\RutinasGenerales.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\obj\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV3\Entidad\obj\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\bin\Debug\InterfazCavali.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\bin\Debug\LogWs.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\bin\Debug\RutinasGenerales.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\obj\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\CARACTERESESPECIALESXML\CODIGO\AppValidateService\AppValidateServiceV5\Entidad\obj\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\bin\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\bin\Debug\Entidad.pdb
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\bin\Debug\InterfazCavali.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\bin\Debug\LogWs.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\bin\Debug\RutinasGenerales.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\obj\Debug\Entidad.dll
+D:\DIMENSIONLOCAL\TRABAJOCASA\APPVALIDATE04012\AppValidateService\Entidad\obj\Debug\Entidad.pdb

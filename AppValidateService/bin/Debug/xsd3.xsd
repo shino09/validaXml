@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xs:schema xmlns:tns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="UBLVersionID" type="xs:decimal" />
+  <xs:element name="CustomizationID" type="xs:decimal" />
+  <xs:element name="ID">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="schemeAgencyName" type="xs:string" use="optional" />
+          <xs:attribute name="schemeID" type="xs:string" use="optional" />
+          <xs:attribute name="schemeName" type="xs:string" use="optional" />
+          <xs:attribute name="schemeURI" type="xs:string" use="optional" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="IssueDate" type="xs:date" />
+  <xs:element name="IssueTime" type="xs:time" />
+  <xs:element name="DueDate" type="xs:date" />
+  <xs:element name="InvoiceTypeCode">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:unsignedByte">
+          <xs:attribute name="listAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="listID" type="xs:unsignedByte" use="required" />
+          <xs:attribute name="listName" type="xs:string" use="required" />
+          <xs:attribute name="listSchemeURI" type="xs:string" use="required" />
+          <xs:attribute name="listURI" type="xs:string" use="required" />
+          <xs:attribute name="name" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Note">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="languageLocaleID" type="xs:unsignedShort" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DocumentCurrencyCode">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="listAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="listID" type="xs:string" use="required" />
+          <xs:attribute name="listName" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Name" type="xs:string" />
+  <xs:element name="URI" type="xs:string" />
+  <xs:element name="CustomerAssignedAccountID" type="xs:unsignedLong" />
+  <xs:element name="AdditionalAccountID" type="xs:unsignedByte" />
+  <xs:element name="RegistrationName" type="xs:string" />
+  <xs:element name="AddressTypeCode">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:unsignedByte">
+          <xs:attribute name="listAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="listName" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BuildingNumber" />
+  <xs:element name="CitySubdivisionName" type="xs:string" />
+  <xs:element name="CityName" type="xs:string" />
+  <xs:element name="CountrySubentity" type="xs:string" />
+  <xs:element name="CountrySubentityCode" type="xs:string" />
+  <xs:element name="District" type="xs:string" />
+  <xs:element name="Line" type="xs:string" />
+  <xs:element name="IdentificationCode" type="xs:string" />
+  <xs:element name="TaxAmount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TaxableAmount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TaxTypeCode" type="xs:string" />
+  <xs:element name="PayableAmount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InvoicedQuantity">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="unitCode" type="xs:string" use="required" />
+          <xs:attribute name="unitCodeListAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="unitCodeListID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LineExtensionAmount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FreeOfChargeIndicator" type="xs:boolean" />
+  <xs:element name="PriceAmount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PriceTypeCode">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:unsignedByte">
+          <xs:attribute name="listAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="listName" type="xs:string" use="required" />
+          <xs:attribute name="listURI" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ChargeIndicator" type="xs:boolean" />
+  <xs:element name="Amount">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+          <xs:attribute name="currencyID" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Percent" type="xs:decimal" />
+  <xs:element name="TierRange" type="xs:unsignedByte" />
+  <xs:element name="TaxExemptionReasonCode">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:unsignedByte">
+          <xs:attribute name="listAgencyName" type="xs:string" use="required" />
+          <xs:attribute name="listName" type="xs:string" use="required" />
+          <xs:attribute name="listURI" type="xs:string" use="required" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Description" type="xs:string" />
+</xs:schema>
